@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/jsoup-1.8.3.jar" destdir="doc" doctitle="Java Word Cloud API" nodeprecated="true" nodeprecatedlist="true" noindex="false" nonavbar="false" notree="false" packagenames="tagcloud" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
